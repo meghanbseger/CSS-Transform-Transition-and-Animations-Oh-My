@@ -16,12 +16,26 @@ img {
 }
 
 button {
+  border: none;
   padding: 1em;
   margin: .2em;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.5em;
+  transition-duration: 2s;
 }
 
 button:hover {
   background-color: cornflowerblue;
 }
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
